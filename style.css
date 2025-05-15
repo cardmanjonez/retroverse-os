@@ -1,0 +1,30 @@
+
+body {
+  margin: 0;
+  background: url('https://i.imgur.com/sX2fDGO.jpeg') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'VT323', monospace;
+  color: #fff;
+}
+.desktop {
+  padding: 20px;
+}
+.icon {
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+}
+.icon img {
+  width: 48px;
+  height: 48px;
+}
+.start-button {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  background-color: #2e003e;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 20px;
+}
